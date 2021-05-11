@@ -4,4 +4,4 @@ this is a simple readme file
 
 checking for updates
 
-TEXTING ON THE GO
+we are doing more
